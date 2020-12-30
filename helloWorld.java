@@ -15,7 +15,12 @@ class C {
  public static void main(String args[], 
                          int abc,
                          int cda,
-                        int dfa){
+                        int dfa,
+                        int fga){
      System.out.println("Hello Worldasd");  
  }
+}
+
+int main(int x){
+ return 0;
 }
