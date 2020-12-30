@@ -14,7 +14,8 @@ class B {
 class C {
  public static void main(String args[], 
                          int abc,
-                         int cda){
+                         int cda,
+                        int dfa){
      System.out.println("Hello Worldasd");  
  }
 }
