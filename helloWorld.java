@@ -13,18 +13,16 @@ class B {
 
 class C {
  public static void main(String args[], 
-                         int abc,
                          int asd,
                          int add,
                          int cda,
                         int dfa,
                         int fga,
-                        int gha,
-                        int asdasd){
+                        int gha){
      System.out.println("Hello Worldasd");  
  }
 }
 
-int main(int x, int y){
+int main(int x){
  return 0;
 }
