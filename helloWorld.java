@@ -16,13 +16,15 @@ class C {
                          int asd,
                          int add,
                          int cda,
+                         int asd,
                         int dfa,
                         int fga,
-                        int gha){
+                        int gha,
+                        int zxc){
      System.out.println("Hello Worldasd");  
  }
 }
 
-int main(int x){
+int main(int x, int y){
  return 0;
 }
