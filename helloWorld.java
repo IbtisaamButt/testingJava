@@ -14,10 +14,12 @@ class B {
 class C {
  public static void main(String args[], 
                          int abc,
+                         int qweq,
                          int cda,
                         int dfa,
                         int fga,
-                        int gha){
+                        int gha,
+                        int yui){
      System.out.println("Hello Worldasd");  
  }
 }
