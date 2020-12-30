@@ -12,7 +12,9 @@ class B {
 }
 
 class C {
- public static void main(String args[], int abc, int cda){
+ public static void main(String args[], 
+                         int abc,
+                         int cda){
      System.out.println("Hello Worldasd");  
  }
 }
